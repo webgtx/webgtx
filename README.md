@@ -29,7 +29,8 @@ I am 17 years old, have been doing web development for more than four years and 
 ![ps](https://img.shields.io/badge/-PhotoShop-F05032?style=for-the-badge&logo=Adobe-photoshop&logoColor=ffffff)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-F05032?style=for-the-badge&logo=figma&logoColor=ffffff)
 
-## Statistics 
+## Statistics & Rewards
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=webgtx&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webgtx&langs_count=3&theme=onedark&hide=html,css)
+![Codeware Badge](https://www.codewars.com/users/webgtx/badges/large)
 
