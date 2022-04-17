@@ -1,6 +1,21 @@
-# Hi, my name is David Jhonson <br />
-I'm fullstack developer, and devops engineer.<br />
-I am 17 years old, have been doing web development for more than four years and during this time I have gained a lot of experience. I respect the idea of GNU and opensource projects, and contribute to it. <br />
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=webgtx&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="webgtx" />  
+  <a href="https://dsx.ninja"><img src="https://img.shields.io/badge/PRICES-87459e" alt="webgtx" /> </a>
+  <a href="https://webgtx.github.io/pixart"><img src="https://img.shields.io/badge/ARTS-4e99b7" alt="webgtx" /> </a>
+  <a href="https://dxunity.codes"><img src="https://img.shields.io/badge/CONTACTS-4eb78a" alt="webgtx" /> </a>
+  <a href="https://github.com/dsxninja"><img src="https://img.shields.io/badge/TEAM-b74e78" alt="webgtx" /> </a>
+</p>
+
+<h1 align="center">David Jhonson 🛰️ </h1> <br />
+<p align="center">
+I'm <b>Software</b> developer, and <b>DevOps</b> engineer. <br />
+17.9 years old, usually i try to solve my problems <br />
+in production and share my solution on github. <br />
+<br />
+Also take part in CTF tournaments,<br />
+and other programming competitions.<br />
+</p>
+
 ## Languages and Tools
 ### DevOps stack
 ![DOCKER](https://img.shields.io/badge/-DOCKER-9d4beb?style=for-the-badge&logo=docker&logoColor=ffffff)
@@ -9,6 +24,7 @@ I am 17 years old, have been doing web development for more than four years and 
 ![LXD](https://img.shields.io/badge/-LXD-9d4beb?style=for-the-badge&logo=linuxcontainers&logoColor=ffffff)
 ### Backend stack 
 ![PY](https://img.shields.io/badge/-PYTHON-718093?style=for-the-badge&logo=python&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-718093?style=for-the-badge&logo=php&logoColor=ffffff)
 ![MONGODB](https://img.shields.io/badge/-MONGODB-718093?style=for-the-badge&logo=mongodb&logoColor=ffffff)
 ![NODEJS](https://img.shields.io/badge/-NODEJS-718093?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-718093?style=for-the-badge&logo=mysql&logoColor=ffffff)
@@ -30,7 +46,17 @@ I am 17 years old, have been doing web development for more than four years and 
 ![FIGMA](https://img.shields.io/badge/-FIGMA-F05032?style=for-the-badge&logo=figma&logoColor=ffffff)
 
 ## Statistics & Rewards
+<div align="center" width="200px">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webgtx&langs_count=3&theme=onedark&hide=html,css,pug,scss)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=webgtx&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webgtx&langs_count=3&theme=onedark&hide=html,css)
+[![trophy](https://github-profile-trophy.vercel.app/?username=webgtx&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<a align="center" href="https://codewares/users/webgtx">
+  
 ![Codeware Badge](https://www.codewars.com/users/webgtx/badges/large)
+  
+</a>
 
