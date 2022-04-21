@@ -17,6 +17,9 @@ and other programming competitions.<br />
 </p>
 
 ## Languages and Tools
+
+<img align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fart.pixilart.com%2F58d01e0a6303df2.png&f=1&nofb=1" width="500">
+
 ### DevOps stack
 ![DOCKER](https://img.shields.io/badge/-DOCKER-9d4beb?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![BASH](https://img.shields.io/badge/-BASH-9d4beb?style=for-the-badge&logo=shell&logoColor=ffffff)
@@ -48,9 +51,11 @@ and other programming competitions.<br />
 ## Statistics & Rewards
 <div align="center" width="200px">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webgtx&langs_count=3&theme=onedark&hide=html,css,pug,scss)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=webgtx&show_icons=true&theme=onedark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=webgtx&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![Commit stats](https://activity-graph.herokuapp.com/graph?username=webgtx&bg_color=282c34&color=ffffff&line=e5c07b&point=abb2bf&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=webgtx&theme=onedark&hide_border=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=webgtx&show_icons=true&theme=onedark&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=webgtx&theme=onedark&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webgtx&langs_count=3&hide_border=true&theme=onedark&hide=html,css,pug,scss)
 
 </div>
 
