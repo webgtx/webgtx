@@ -1,15 +1,15 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=webgtx&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="webgtx" />  
   <a href="https://dsx.ninja"><img src="https://img.shields.io/badge/PRICES-87459e" alt="webgtx" /> </a>
-  <a href="https://webgtx.github.io/pixart"><img src="https://img.shields.io/badge/ARTS-4e99b7" alt="webgtx" /> </a>
-  <a href="https://dxunity.codes"><img src="https://img.shields.io/badge/CONTACTS-4eb78a" alt="webgtx" /> </a>
+  <a href="https://dxv1d.dsx.ninja/archive"><img src="https://img.shields.io/badge/BLOG-4e99b7" alt="webgtx" /> </a>
+  <a href="https://dxv1d.dsx.ninja/about"><img src="https://img.shields.io/badge/CONTACTS-4eb78a" alt="webgtx" /> </a>
   <a href="https://github.com/dsxninja"><img src="https://img.shields.io/badge/TEAM-b74e78" alt="webgtx" /> </a>
 </p>
 
 <h1 align="center">David Jhonson 🛰️ </h1> <br />
 <p align="center">
 I'm <b>Software</b> developer, and <b>DevOps</b> engineer. <br />
-17.9 years old, usually i try to solve my problems <br />
+18 years old, usually i try to solve my problems <br />
 in production and share my solution on github. <br />
 <br />
 Also take part in CTF tournaments,<br />
