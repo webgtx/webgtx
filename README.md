@@ -59,7 +59,7 @@ and other programming competitions.<br />
 
 </div>
 
-<a align="center" href="https://codewares/users/webgtx">
+<a align="center" href="https://codewars/users/webgtx">
   
 ![Codeware Badge](https://www.codewars.com/users/webgtx/badges/large)
   
