@@ -55,7 +55,7 @@ and other programming competitions.<br />
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=webgtx&theme=onedark&hide_border=true)
 ![github stats](https://github-readme-stats.vercel.app/api?username=webgtx&show_icons=true&theme=onedark&hide_border=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=webgtx&theme=onedark&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webgtx&langs_count=3&hide_border=true&theme=onedark&hide=html,css,pug,scss)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webgtx&langs_count=3&hide_border=true&theme=onedark&hide=html,css,pug,scss,javascript)
 
 </div>
 
