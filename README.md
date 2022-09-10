@@ -6,7 +6,7 @@
   <a href="https://github.com/dsxninja"><img src="https://img.shields.io/badge/TEAM-b74e78" alt="webgtx" /> </a>
 </p>
 
-<h1 align="center">David Jhonson 🛰️ </h1> <br />
+<h1 align="center">Alex Zolotarov 🛰️ </h1> <br />
 <p align="center">
 I'm <b>Software</b> developer, and <b>DevOps</b> engineer. <br />
 18 years old, usually i try to solve my problems <br />
