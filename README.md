@@ -8,9 +8,9 @@
 
 <h1 align="center">Alex Zolotarov 🛰️ </h1> <br />
 <p align="center">
-I'm <b>Software</b> developer, and <b>DevOps</b> engineer. <br />
+I'm <b>Software</b> developer, and <b>SDO/SRE</b> engineer. <br />
 18 years old, usually i try to solve my problems <br />
-in production and share my solution on github. <br />
+in production and share my solution with others. <br />
 <br />
 Also take part in CTF tournaments,<br />
 and other programming competitions.<br />
