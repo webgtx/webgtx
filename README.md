@@ -1,9 +1,9 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=webgtx&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="webgtx" />  
-  <a href="https://dsx.ninja"><img src="https://img.shields.io/badge/PRICES-87459e" alt="webgtx" /> </a>
+<!--   <a href="https://dsx.ninja"><img src="https://img.shields.io/badge/PRICES-87459e" alt="webgtx" /> </a> -->
   <a href="https://webgtx.me/archive"><img src="https://img.shields.io/badge/BLOG-4e99b7" alt="webgtx" /> </a>
   <a href="https://webgtx.me/about"><img src="https://img.shields.io/badge/CONTACTS-4eb78a" alt="webgtx" /> </a>
-  <a href="https://github.com/dsxninja"><img src="https://img.shields.io/badge/TEAM-b74e78" alt="webgtx" /> </a>
+<!--   <a href="https://github.com/dsxninja"><img src="https://img.shields.io/badge/TEAM-b74e78" alt="webgtx" /> </a> -->
 </p>
 
 <h1 align="center">Alex Zolotarov 🛰️ </h1> <br />
