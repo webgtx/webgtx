@@ -4,7 +4,7 @@
   <a href="https://webgtx.me/archive"><img src="https://img.shields.io/badge/BLOG-4e99b7" alt="webgtx" /> </a>
   <a href="https://webgtx.me/about"><img src="https://img.shields.io/badge/CONTACTS-4eb78a" alt="webgtx" /> </a>
 <!--   <a href="https://github.com/dsxninja"><img src="https://img.shields.io/badge/TEAM-b74e78" alt="webgtx" /> </a> -->
-</p>
+</p> 
 
 <h1 align="center">Alex Zolotarov 🛰️ </h1> <br />
 <p align="center">
