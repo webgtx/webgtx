@@ -6,10 +6,15 @@
 <!--   <a href="https://github.com/dsxninja"><img src="https://img.shields.io/badge/TEAM-b74e78" alt="webgtx" /> </a> -->
 </p> 
 
-<h1 align="center">Alex Zolotarov 🛰️ </h1> <br />
-- I'm good at server-side scripting and infrastructure development.
-- Sometimes I do security research, sometimes I can participate in CTF.
-- I'm open to any valuable collaboration, email me your ideas.
+<h1 align="center">Alex Zolotarov 🛰️ </h1>
+<div align=center>
+
+I'm good at server-side scripting and infrastructure development. <br>
+Sometimes I do security research, sometimes I can participate in CTF. <br>
+I'm open to any valuable collaboration, feel free to email me. <br>
+
+</div>
+
 
 ## My technical stack
 
@@ -47,7 +52,6 @@
 <div align="center" width="200px">
 
 ![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=webgtx&theme=onedark&hide_border=true)
-![github stats](https://github-readme-stats.vercel.app/api?username=webgtx&show_icons=true&theme=onedark&hide_border=true&count_private=true)
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webgtx&layout=compact&langs_count=10&hide_border=true&theme=onedark&hide=html,css,pug,scss,javascript,c&exclude_repo=nvim,vim)
 
 </div>
